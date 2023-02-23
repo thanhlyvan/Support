@@ -1,8 +1,8 @@
 {
-    "name":        "arcanedev/support",
+    "name":        "thanhlyvan/support",
     "description": "ARCANEDEV Support Helpers",
     "keywords":    ["arcanedev", "arcanesoft", "support", "laravel"],
-    "homepage":    "https://github.com/ARCANEDEV/Support",
+    "homepage":    "https://github.com/thanhlyvan/Support",
     "authors": [
         {
             "name":     "ARCANEDEV",
